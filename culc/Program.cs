@@ -31,25 +31,26 @@ namespace culc
             //System.Console.WriteLine("Enter second operand: ");
             //double Second = double.Parse(Console.ReadLine());
             double First = 5.5, Second = 3;
+            Rezult<double> rez;
 
             System.Console.WriteLine("Choose operation:\nPush *1* --> to plus operands\nPush *2* --> to minus operands\n Push *3* to find multyplication\nPush *4* --> to divide them\n Your choise:");
             int choise = int.Parse(Console.ReadLine());
             switch (choise)
             {
                 case 1:
-                Rezult<double> rez = new Rezult<double>(Calculator.Plus);
+                rez = new Rezult<double>(Calculator.Plus);
                 Console.WriteLine(rez.Invoke(First,Second));
                 break;
-                // case 2:
-                // Rezult<double> rez = new Rezult<double>(Calculator.Plus);
-                // rez.Invoke(First,Second);
-                // break;
+                case 2:
+                rez = new Rezult<double>(Calculator.Minus);
+                System.Console.WriteLine(rez.Invoke(First,Second));
+                break;
                 // case 3:
-                // Rezult<double> rez = new Rezult<double>(Calculator.Plus);
+                // rez = new Rezult<double>(Calculator.Plus);
                 // rez.Invoke(First,Second);
                 // break;
                 // case 4:
-                // Rezult<double> rez = new Rezult<double>(Calculator.Plus);
+                // rez = new Rezult<double>(Calculator.Plus);
                 // rez.Invoke(First,Second);
                 // break;
             }
