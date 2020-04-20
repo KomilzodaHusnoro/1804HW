@@ -45,14 +45,14 @@ namespace culc
                 rez = new Rezult<double>(Calculator.Minus);
                 System.Console.WriteLine(rez.Invoke(First,Second));
                 break;
-                // case 3:
-                // rez = new Rezult<double>(Calculator.Plus);
-                // rez.Invoke(First,Second);
-                // break;
-                // case 4:
-                // rez = new Rezult<double>(Calculator.Plus);
-                // rez.Invoke(First,Second);
-                // break;
+                case 3:
+                rez = new Rezult<double>(Calculator.Multyplication);
+                rez.Invoke(First,Second);
+                break;
+                case 4:
+                rez = new Rezult<double>(Calculator.Division);
+                rez.Invoke(First,Second);
+                break;
             }
            
         }
