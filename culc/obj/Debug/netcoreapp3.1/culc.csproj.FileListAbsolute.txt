@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\bin\Debug\netcoreapp3.1\culc.exe
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\bin\Debug\netcoreapp3.1\culc.deps.json
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\bin\Debug\netcoreapp3.1\culc.runtimeconfig.json
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\bin\Debug\netcoreapp3.1\culc.runtimeconfig.dev.json
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\bin\Debug\netcoreapp3.1\culc.dll
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\bin\Debug\netcoreapp3.1\culc.pdb
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\obj\Debug\netcoreapp3.1\culc.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\obj\Debug\netcoreapp3.1\culc.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\obj\Debug\netcoreapp3.1\culc.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\obj\Debug\netcoreapp3.1\culc.AssemblyInfo.cs
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\obj\Debug\netcoreapp3.1\culc.dll
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\obj\Debug\netcoreapp3.1\culc.pdb
+C:\Users\HP\Desktop\projects\new lessons\lastDZ\culc\obj\Debug\netcoreapp3.1\culc.genruntimeconfig.cache
